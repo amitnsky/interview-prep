@@ -1,1 +1,1 @@
-# interview-prep
+# Campus Placement Interview Preparation Guide
